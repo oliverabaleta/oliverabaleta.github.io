@@ -12,6 +12,7 @@
     border-radius: 12px;
     cursor: pointer;
     margin-left: 600px
+    transition: opacity 1s;
   }
   
   .resume:hover {
