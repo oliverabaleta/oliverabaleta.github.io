@@ -10,7 +10,8 @@
   button {
     background-color: white;
     color: gray;
-    height: 35px;
+    height: 40px;
+    border-radius 10px;
   }
 </style>
 
