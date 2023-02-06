@@ -9,6 +9,7 @@
 <style>
   button {
     background-color: white;
+    color: black;
   }
 </style>
 
