@@ -1,7 +1,6 @@
 <style>
   .my-name {
     font-stize: 30px;
-    font-style: Algerian;
     margin-left: 400px;
   }
   
@@ -9,9 +8,14 @@
     background-color: white;
     color: gray;
     height: 30px;
-    border-radius 12px;
+    border-radius: 12px;
+    border-color: gray;
     cursor: pointer;
     margin-left: 600px
+  }
+  
+  .resume:hover {
+  background-color: gray;
   }
 </style>
 
