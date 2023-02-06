@@ -14,11 +14,11 @@
   }
   
   .resume:hover {
-  background-color: gray;
+    background-color: gray;
   }
 </style>
 
-<p clcass = "my-name">
+<p class = "my-name">
   Engr. Oliver Abaleta, HCIA
 </p>
 
