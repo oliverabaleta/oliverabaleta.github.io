@@ -14,7 +14,7 @@
   }
   
   .resume:hover {
-    background-color: gray;
+    opacity: 0:8;
   }
 </style>
 
