@@ -9,7 +9,6 @@
     color: gray;
     height: 30px;
     border-radius: 12px;
-    border-color: gray;
     cursor: pointer;
     margin-left: 600px
   }
