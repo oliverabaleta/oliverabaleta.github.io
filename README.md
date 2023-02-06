@@ -6,6 +6,7 @@
   }
   
   .resume {
+    font-family: Cambria
     background-color: white;
     color: black;
     height: 30px;
