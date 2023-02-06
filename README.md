@@ -9,8 +9,9 @@
 <style>
   button {
     background-color: white;
-    color: black;
-    border: none;
+    color: gray;
+    border: black;
+    height: 25px;
   }
 </style>
 
