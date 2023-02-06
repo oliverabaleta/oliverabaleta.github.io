@@ -11,7 +11,7 @@
     height: 30px;
     border-radius: 12px;
     cursor: pointer;
-    margin-left: 600px
+    margin-left: 600px;
     transition: opacity 1s;
   }
   
