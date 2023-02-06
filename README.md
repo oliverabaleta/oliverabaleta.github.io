@@ -10,6 +10,7 @@
   button {
     background-color: white;
     color: black;
+    border: none;
   }
 </style>
 
