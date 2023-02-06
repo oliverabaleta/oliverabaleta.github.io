@@ -11,7 +11,7 @@
     background-color: white;
     color: gray;
     height: 30px;
-    border-radius 30px;
+    border-radius 12px;
     cursor: pointer;
   }
 </style>
