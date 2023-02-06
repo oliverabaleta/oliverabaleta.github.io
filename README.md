@@ -1,5 +1,5 @@
 <style>
-  .name {
+  .my-name {
     font-stize: 30px;
     font-style: Algerian;
     margin-left: 400px;
@@ -15,7 +15,7 @@
   }
 </style>
 
-<p clcass = "name">
+<p clcass = "my-name">
   Engr. Oliver Abaleta, HCIA
 </p>
 
