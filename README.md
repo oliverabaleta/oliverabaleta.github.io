@@ -1,12 +1,13 @@
 <style>
   .my-name {
-    font-stize: 30px;
-    margin-left: 400px;
+    font-size: 30px;
+    font-family: Algerian;
+    margin-left: 450px;
   }
   
   .resume {
     background-color: white;
-    color: gray;
+    color: black;
     height: 30px;
     border-radius: 12px;
     cursor: pointer;
