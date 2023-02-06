@@ -13,6 +13,7 @@
     height: 30px;
     border-radius 12px;
     cursor: pointer;
+    margin-left: 100px
   }
 </style>
 
