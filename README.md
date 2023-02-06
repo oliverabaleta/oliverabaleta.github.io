@@ -1,6 +1,8 @@
 <style>
   .name {
-  font-stize: 30px;
+    font-stize: 30px;
+    font-style: Algerian;
+    margin-left: 400px;
   }
   
   .resume {
@@ -9,7 +11,7 @@
     height: 30px;
     border-radius 12px;
     cursor: pointer;
-    margin-left: 100px
+    margin-left: 600px
   }
 </style>
 
