@@ -10,7 +10,7 @@
   button {
     background-color: white;
     color: gray;
-    height: 40px;
+    height: 30px;
     border-radius 10px;
     cursor: pointer;
   }
